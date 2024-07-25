@@ -3,7 +3,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laohan1102/Laohan1102/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Laohan1102/Laohan1102/output/github-contribution-grid-snake.svg">
 </picture>
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Laohan1102&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=Laohan1102&abbreviated=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Laohan1102&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!--
 **Laohan1102/Laohan1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
